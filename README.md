@@ -171,41 +171,6 @@ This creates a unique details page for each NFT.
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
-### Example:
-- Home Page Screenshot
-- Filter Feature Screenshot
-- Details Page Screenshot
-
----
-
-## 🎥 Screen Recording
-
-(Add your video link here)
-
-Example:
-
-```text
-Google Drive Link / YouTube Link
-```
-
----
-
-## 🔊 AI Voice Note
-
-(Add your AI voice note link here)
-
-Example:
-
-```text
-MP3 Link / Drive Link
-```
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this project, I learned:
@@ -216,16 +181,6 @@ Through this project, I learned:
 - Filtering and sorting logic
 - Tailwind CSS layout design
 - Modern frontend development workflow
-
----
-
-## 👨‍💻 Author
-
-**Asad Chowdhury**
-
-📧 Email: asadchowdhury902@gmail.com  
-🔗 GitHub: (Add your GitHub link)  
-🔗 Portfolio: (Add your portfolio link)
 
 ---
 
